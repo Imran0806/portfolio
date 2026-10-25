@@ -9,6 +9,7 @@ Il énonce les différentes modalités de l'activité d'apprentissage, notamment
 - La durée de l'activité et son déroulement
 - Le matériel nécessaire 
 - Le niveau d'apprentisage et la matière dont il est question
+- Bibliographie des ressources utilisées spécifiquement pour cette activité
 ## Fichier exercice :
 Il s'agit simplement de l'épreuve en elle-même.
 Elle consiste en un mot-croisés testant les connaissances des élèves en géomètrie
