@@ -1,6 +1,7 @@
 # Portfolio
 # STRUCTURE DU PORTFOLIO :
 ## Le portfolio est constitué de 6 activités (Chacune constituée de 3 fichiers) :
+Les 5 premières activités concerneront chaque partie de mon cours de didactique de numérique (Professeur : Vachaudez Julien)
 ## Fichier modalités :
 Il énonce les différentes modalités de l'activité d'apprentissage, notamment :
 - La durée de l'activité et son déroulement
@@ -12,6 +13,7 @@ Il s'agit simplement de l'épreuve en elle-même.
 ## Fichier correctif :
 C'est là que se trouve le correctif.
 L'accent est mis sur les notions jugées importantes grâce à la mise en gras.
+
 # Activité 1 :
 ## Description : 
 Le but de cette activité est de tester le niveau en géomètrie des arrivants en 3ème secondaire selon les attendus du réferentiel de mathématiques du tronc commun (FWB)
@@ -20,13 +22,15 @@ Elle consiste en un mot-croisés testant les connaissances des élèves en géom
 ## Description : 
 Le but de cette activité est de tester les élèves de 2ème secondaire selon les attendus du réferentiel de FMTTN du tronc commun (FWB).
 La partie traitée spécifiquement ici concerne le volet n°2 (Le numérique) et plus précisement les thèmes de la navigation web et de la qualité de l'information.
-
-# AUTEUR
-Cette activité à été imaginé et crée par Saouti Imran.
+# Activité 3 :
+## Description :
+Le but de cette activité est de tester les élèves de 1ére secondaire selon les attendus du réferentiel de FMTTN du tronc commun (FWB).
+La partie traitée ici concerne notemment l'utilisation de l'explorateur de fichiers.
 
 # SOURCES
 En général :
 
+- Cours de didactique du numérique de mon professeur (Vachaudez Julien)
 - Référentiel de FMTTN du tronc commun de la Fédération Wallonie-Bruxelles : https://ifpc-fwb.be/v5/documents/tc/refFMTTN.pdf
 - Référentiel de mathématiques du tronc commun de la Fédération Wallonie-Bruxelles : https://ifpc-fwb.be/v5/documents/tc/refMATH.pdf
 
@@ -37,6 +41,10 @@ En général :
 
   Autres outils :
   - Générateur de grille de mots-croisés libre (Educol) : https://www.educol.net/generateur-de-mots-croises
+  - L'intelligence artificielle ChatGPT a été utilisée en partie pour la rédaction de certaines activités
+
+# AUTEUR
+Cette activité à été imaginé et crée par Saouti Imran.
 
 # LICENCE
 Copyright © 2026 Saouti Imran
